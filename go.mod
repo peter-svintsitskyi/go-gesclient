@@ -1,4 +1,4 @@
-module github.com/peter-svintsitskiy/go-gesclient
+module github.com/peter-svintsitskyi/go-gesclient
 
 go 1.12
 
