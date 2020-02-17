@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"encoding/binary"
 	"errors"
-	"github.com/jdextraze/go-gesclient/log"
+	"github.com/peter-svintsitskyi/go-gesclient/log"
 	"github.com/satori/go.uuid"
 	"io"
 	"net"

@@ -3,7 +3,7 @@ package client
 import (
 	"errors"
 	"fmt"
-	"github.com/jdextraze/go-gesclient/guid"
+	"github.com/peter-svintsitskyi/go-gesclient/guid"
 	"github.com/satori/go.uuid"
 )
 

@@ -2,7 +2,7 @@ package tasks_test
 
 import (
 	"errors"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/peter-svintsitskyi/go-gesclient/tasks"
 	"testing"
 	"time"
 )

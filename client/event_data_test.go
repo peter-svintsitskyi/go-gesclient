@@ -2,8 +2,8 @@ package client_test
 
 import (
 	"bytes"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/guid"
+	"github.com/peter-svintsitskyi/go-gesclient/client"
+	"github.com/peter-svintsitskyi/go-gesclient/guid"
 	"github.com/satori/go.uuid"
 	"testing"
 )

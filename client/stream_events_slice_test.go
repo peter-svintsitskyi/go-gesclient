@@ -1,8 +1,8 @@
 package client_test
 
 import (
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/messages"
+	"github.com/peter-svintsitskyi/go-gesclient/client"
+	"github.com/peter-svintsitskyi/go-gesclient/messages"
 	"testing"
 )
 

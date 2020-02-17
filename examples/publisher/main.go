@@ -3,9 +3,9 @@ package main
 import (
 	"encoding/json"
 	"flag"
-	"github.com/jdextraze/go-gesclient"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/flags"
+	"github.com/peter-svintsitskyi/go-gesclient"
+	"github.com/peter-svintsitskyi/go-gesclient/client"
+	"github.com/peter-svintsitskyi/go-gesclient/flags"
 	"github.com/satori/go.uuid"
 	"log"
 	"os"

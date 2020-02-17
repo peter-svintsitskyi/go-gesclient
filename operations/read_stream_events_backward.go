@@ -3,9 +3,9 @@ package operations
 import (
 	"fmt"
 	"github.com/golang/protobuf/proto"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/messages"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/peter-svintsitskyi/go-gesclient/client"
+	"github.com/peter-svintsitskyi/go-gesclient/messages"
+	"github.com/peter-svintsitskyi/go-gesclient/tasks"
 )
 
 type readStreamEventsBackward struct {

@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/jdextraze/go-gesclient/log"
+	"github.com/peter-svintsitskyi/go-gesclient/log"
 	"time"
 )
 

@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/peter-svintsitskyi/go-gesclient/tasks"
 	"net"
 )
 

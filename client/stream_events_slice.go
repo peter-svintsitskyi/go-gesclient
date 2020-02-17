@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/jdextraze/go-gesclient/messages"
+	"github.com/peter-svintsitskyi/go-gesclient/messages"
 )
 
 type StreamEventsSlice struct {

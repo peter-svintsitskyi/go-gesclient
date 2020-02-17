@@ -2,9 +2,9 @@ package internal
 
 import (
 	"errors"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/log"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/peter-svintsitskyi/go-gesclient/client"
+	"github.com/peter-svintsitskyi/go-gesclient/log"
+	"github.com/peter-svintsitskyi/go-gesclient/tasks"
 	"github.com/satori/go.uuid"
 	"sync"
 	"sync/atomic"

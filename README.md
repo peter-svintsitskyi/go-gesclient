@@ -4,7 +4,7 @@ A [Go](https://golang.org/) port of the .Net client for [Event Store](https://ev
 
 ## License
 
-Ported code is released under the [MIT](https://github.com/jdextraze/go-gesclient/blob/master/LICENSE) license.
+Ported code is released under the [MIT](https://github.com/peter-svintsitskyi/go-gesclient/blob/master/LICENSE) license.
 
 Original code is released under the [Event Store License](https://github.com/EventStore/EventStore/blob/master/LICENSE.md).
 
@@ -53,7 +53,7 @@ This project is considered ready for production.
 
 ### Install
 
-1. Install using `go get -u github.com/jdextraze/go-gesclient`.
+1. Install using `go get -u github.com/peter-svintsitskyi/go-gesclient`.
 2. Install [govendor](https://github.com/kardianos/govendor) with `go get -u github.com/kardianos/govendor`.
 3. Install vendor packages with `govendor sync`
 

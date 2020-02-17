@@ -2,8 +2,8 @@ package client
 
 import (
 	"fmt"
-	"github.com/jdextraze/go-gesclient/guid"
-	"github.com/jdextraze/go-gesclient/messages"
+	"github.com/peter-svintsitskyi/go-gesclient/guid"
+	"github.com/peter-svintsitskyi/go-gesclient/messages"
 	"github.com/satori/go.uuid"
 	"time"
 )
